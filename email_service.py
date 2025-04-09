@@ -4,7 +4,7 @@ from email.message import EmailMessage
 
 # Load email credentials from environment variables (recommended for security)
 EMAIL_ADDRESS = "tejuselvaraj2006@gmail.com"  # Replace with your email
-EMAIL_PASSWORD = "tyrw nkfd rihr tydh"  # Use App Password (not your real password)
+EMAIL_PASSWORD = "use your password"  # Use App Password (not your real password)
 
 # Function to send email
 def send_email(to_email, subject, body):
